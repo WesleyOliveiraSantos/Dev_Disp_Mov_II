@@ -10,6 +10,8 @@ This project is a starting point for a Flutter application. Este projeo foi cria
 2ºAlterei a cor de fundo do titulo mudando para amarelo;
 3º Alterei a frase central, traduzindo para o portugues  e acrescentei o sinal de +.
 
+Os proximos comentarios serão no código.
+
 
 A few resources to get you started if this is your first Flutter project:
 
